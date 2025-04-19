@@ -35,3 +35,16 @@ export const sidebarLinks = [
     label: "Ask a question",
   },
 ];
+
+export const buttonLinks = [
+  {
+    imgURL: "/icons/user.svg",
+    route: "/sign-in",
+    label: "Sign In",
+  },
+  {
+    imgURL: "/icons/sign-up.svg",
+    route: "/sign-up",
+    label: "Sign Up",
+  },
+];
